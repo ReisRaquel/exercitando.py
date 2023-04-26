@@ -1,2 +1,2 @@
 # exercitando.py
-exercicios de pratica 
+exercicios de pratica em python 
